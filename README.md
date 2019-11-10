@@ -106,3 +106,9 @@ hexo deploy # hexo will push the static files automatically into the specific br
 
 Please [Star](https://github.com/YenYuHsuan/hexo-theme-beantech) this Project if you like it! [Follow](https://github.com/YenYuHsuan) would also be appreciated!
 Peace!
+
+
+如果运行hexo d报错
+在将.deploy_git文件内容连接版本库
+git@github.com:Mary5haw/Mary5haw.github.io.git
+进行直接强制提交
